@@ -1,0 +1,40 @@
+# ===============================
+# MATLAB temporary & backup files
+# ===============================
+*.asv
+*.m~
+*.autosave
+*.bak
+*.tmp
+
+# MATLAB generated folders
+slprj/
+codegen/
+
+# MATLAB live editor autosave
+*.mlx.autosave
+
+# ===============================
+# OS-specific files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# Large generated outputs
+# ===============================
+output/*.mp4
+
+# Uncomment the following line IF you want to keep output folder empty
+# output/
+
+# ===============================
+# MATLAB figures (optional)
+# ===============================
+*.fig

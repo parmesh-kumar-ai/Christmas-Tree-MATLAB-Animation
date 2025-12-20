@@ -26,7 +26,6 @@ A high-quality **3D animated Christmas scene** created entirely in **MATLAB**, f
 ## 🛠️ Requirements
 - MATLAB R2018 or later (recommended)
 - OpenGL renderer enabled
-
 ---
 
 ## ▶️ How to Run
@@ -34,3 +33,11 @@ A high-quality **3D animated Christmas scene** created entirely in **MATLAB**, f
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/christmas-tree-matlab-animation.git
+---
+## 👤 Author
+
+This project is created and maintained by **Parmesh Kumar**.
+
+📄 Read more about the author here:  
+👉 [AUTHOR.md](AUTHOR.md)
+

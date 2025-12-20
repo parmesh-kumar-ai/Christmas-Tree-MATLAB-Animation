@@ -34,7 +34,7 @@ A high-quality **3D animated Christmas scene** created entirely in **MATLAB**, f
    ```bash
    git clone https://github.com/your-username/christmas-tree-matlab-animation.git
 ---
-## 👤 Author
+## 👤 About Author
 
 This project is created and maintained by **Parmesh Kumar**.
 

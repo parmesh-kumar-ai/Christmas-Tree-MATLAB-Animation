@@ -17,7 +17,7 @@ A high-quality **3D animated Christmas scene** created entirely in **MATLAB**, f
 ---
 
 ## 📸 Preview
-![Preview](output/Merry_Christmas_2025_FullHD_By_Parmesh_Kumar.mp4)
+![Preview](Merry_Christmas_2025_FullHD_By_Parmesh_Kumar.mp4)
 
 *(FullHD MP4 video available in the `output/` folder)*
 

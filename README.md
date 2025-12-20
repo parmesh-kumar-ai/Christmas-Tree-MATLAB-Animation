@@ -39,5 +39,5 @@ A high-quality **3D animated Christmas scene** created entirely in **MATLAB**, f
 This project is created and maintained by **Parmesh Kumar**.
 
 📄 Read more about the author here:  
-👉 [AUTHOR.md](AUTHOR.md)
+👉 [Author.md](Author.md)
 

@@ -32,9 +32,9 @@ This project demonstrates how **MATLAB** can be used not only for engineering an
 ---
 
 ## 🌐 Connect
-- **GitHub:** https://github.com/parmesh-iitkgp
-- **LinkedIn:** https://www.linkedin.com/in/parmesh-iitkgp/  
-- **Email:** parmesh.iitkgp@gmail.com  
+- **GitHub:** https://github.com/parmesh-kumar-ai/
+- **LinkedIn:** https://www.linkedin.com/in/parmesh-kumar-ai/  
+- **Email:** parmesh.kumar.ai@gmail.com   
 
 ---
 
